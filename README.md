@@ -1,7 +1,7 @@
 ## Hello strange, I'm Júlia Lameiras 👋
 
 - 🔭 I’m currently working on final project of Generation's Javascript Bootcamp
-- 🌱 I’m currently learning Typescript and Node.js
+- 🌱 I’m currently learning Typescript and Nestjs
 - 💬 Ask me about the future of humankind
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not funny
