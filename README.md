@@ -3,11 +3,11 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/ogsH7Ailje8AAAAM/cat-funny-cat.gif"  />
 
 ###
 
-<p align="center">🔭 I’m currently working on final project of Generation's Javascript Bootcamp <br> 🌱 I’m currently learning Tailwind and React<br> 💬 Ask me about the future of humankind <br> 😄 Pronouns: she/her <br> 📫 How to reach me: julialameiras@gmail.com <br> ⚡ Fun fact: I'm not funny</p>
+<p align="left">🔭 I’m currently working on final project of Generation's Javascript Bootcamp <br> 🌱 I’m currently learning Tailwind and React<br> 💬 Ask me about the future of humankind <br> 😄 Pronouns: she/her <br> 📫 How to reach me: julialameiras@gmail.com <br> ⚡ Fun fact: I'm not funny</p>
 
 ###
 
