@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on final project of Generation's Javascript Bootcamp <br>- 🌱 I’m currently learning Tailwind and React<br>- 💬 Ask me about the future of humankind <br>- 😄 Pronouns: she/her <br>- 📫 How to reach me: julialameiras@gmail.com <br>- ⚡ Fun fact: I'm not funny</p>
+<p align="center">🔭 I’m currently working on final project of Generation's Javascript Bootcamp <br> 🌱 I’m currently learning Tailwind and React<br> 💬 Ask me about the future of humankind <br> 😄 Pronouns: she/her <br> 📫 How to reach me: julialameiras@gmail.com <br> ⚡ Fun fact: I'm not funny</p>
 
 ###
 
@@ -38,8 +38,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julialameiras&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=bear&hide_border=true&order=2" height="100" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=julialameiras&locale=en&mode=weekly&theme=bear&hide_border=true&border_radius=0&order=3" height="120" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=julialameiras&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=bear&hide_border=true&order=2"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=julialameiras&locale=en&mode=weekly&theme=bear&hide_border=true&border_radius=0&order=3"/>
 </div>
 
 ###
