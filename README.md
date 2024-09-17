@@ -39,8 +39,8 @@
 ###
 
 <p align = "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=julialameiras&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=bear&hide_border=true&order=2"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=julialameiras&locale=en&mode=weekly&theme=bear&hide_border=true&border_radius=0&order=3"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=julialameiras&locale=en&hide_title=true&layout=compact&card_width=220&langs_count=10&theme=bear&hide_border=true&order=2"/>
+  <img height="130em" src="https://streak-stats.demolab.com?user=julialameiras&locale=en&mode=weekly&theme=bear&hide_border=true&border_radius=0&order=3"/>
 </p>
 
 ###
